@@ -1,4 +1,6 @@
-# shell profile for Windows
+# shell profile for windows
+
+Because I still use Windows in 2024.
 
 Using `cmd.exe`:
 ```cmd
