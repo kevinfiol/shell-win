@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But don't ignore .nu files at the root of the repo
+!/*.nu
+!/README.md
+!/.gitignore
