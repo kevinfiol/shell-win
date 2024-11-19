@@ -5,7 +5,7 @@ alias serve = sfz --cors --render-index --no-ignore
 alias love = lovec
 
 # shortcuts
-alias prof = micro "C:\\Users\\kevin\\me\\profile.nu"
+alias prof = micro "~/me/profile.nu"
 alias wsl:list = wsl -l -v
 alias wsl:stop = wsl --shutdown
 
@@ -17,5 +17,4 @@ alias fetch = git fetch
 
 # fnm load
 # i moved fnm load has been moved to config.nu and config.nu > $env.config.hooks.env_change
-
 # fzf is configured in config.nu
