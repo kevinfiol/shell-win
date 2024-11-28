@@ -1,3 +1,5 @@
+$env.GIT_CONFIG_GLOBAL = "C:\\Users\\kevin\\me\\.gitconfig"
+
 alias m = micro
 alias rmm = rm -rf
 alias cat = bat
