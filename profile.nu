@@ -22,6 +22,10 @@ alias gpg:list = gpg --list-secret-keys --keyid-format SHORT
 alias gpg:edit = gpg --edit-key
 alias gpg:export = gpg --armor --export
 
+# pgs.sh
+alias pgs = ssh -i "C:\\Users\\kevin\\.ssh\\pgs_sh" pgs.sh
+alias pgs:help = pgs help
+
 # fnm load
 # i moved fnm load has been moved to config.nu and config.nu > $env.config.hooks.env_change
 # fzf is configured in config.nu
